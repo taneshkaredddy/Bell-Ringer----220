@@ -20,7 +20,7 @@ Just rearranged under the binary sun
 Binary love flip the bits and go
 Negative feelings simply overflow
 From zero down to thirty-two
-In the end it’s all just ones and zeros
+In the end it’s all just ones and zeros that break through
 
 [Verse 3]
 If you see a leading one
@@ -31,11 +31,11 @@ Counting down till they’re done
 [Bridge]
 32 bits in a row
 High to low they neatly flow
-From -2^31 to the thirty-one
-All compacted in this binary show
+From minus two to the thirty-one
+All compacted in this binary fun
 
 [Chorus]
 Binary love flip the bits and go
 Negative feelings simply overflow
 From zero down to thirty-two
-In the end it’s all just ones and zeros
+In the end it’s all just ones and zeros that break through
